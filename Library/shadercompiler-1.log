@@ -1,0 +1,19 @@
+Base path: C:/Program Files/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-1-6496
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=1 type=0 insize=13037 outsize=1036 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF MARMO_GAMMA ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=13037 outsize=5788 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF MARMO_GAMMA ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=6863 outsize=674 kw=DIRECTIONAL SHADOWS_OFF MARMO_GAMMA ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=6863 outsize=3165 kw=DIRECTIONAL SHADOWS_OFF MARMO_GAMMA ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=12263 outsize=1307 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF MARMO_GAMMA ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=12263 outsize=963 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF MARMO_GAMMA ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=6149 outsize=674 kw=DIRECTIONAL SHADOWS_OFF MARMO_GAMMA ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=6149 outsize=586 kw=DIRECTIONAL SHADOWS_OFF MARMO_GAMMA ok=1
